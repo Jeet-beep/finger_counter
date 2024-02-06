@@ -46,14 +46,9 @@ python hand_detection.py
 - Counts the number of raised fingers.
 - Draws hand landmarks and finger count on the webcam feed.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [MediaPipe](https://google.github.io/mediapipe/) for providing the hand detection model.
 - [OpenCV](https://opencv.org/) for image processing capabilities.
 ```
-
-Feel free to customize the README according to your project's specific details. Once you've made any necessary changes, you can save it as `README.md` in your project repository.
+Made with ♥ by Charanjeet Singh
