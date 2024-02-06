@@ -1,5 +1,3 @@
-Certainly! Here's the entire README.md script that you can copy and paste:
-
 ```markdown
 # Hand Detection using MediaPipe
 
@@ -23,7 +21,7 @@ pip install opencv-python mediapipe
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Jeet-beep/finger_counter.git
 ```
 
 2. Navigate to the directory containing the `finger_counter.py` file:
@@ -35,7 +33,7 @@ cd your-repository
 3. Run the script:
 
 ```bash
-python hand_detection.py
+python finger_counter.py
 ```
 
 4. Point your webcam towards your hand and raise fingers to see the finger count displayed on the screen.
