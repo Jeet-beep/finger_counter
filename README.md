@@ -26,7 +26,7 @@ pip install opencv-python mediapipe
 git clone https://github.com/your-username/your-repository.git
 ```
 
-2. Navigate to the directory containing the `hand_detection.py` file:
+2. Navigate to the directory containing the `finger_counter.py` file:
 
 ```bash
 cd your-repository
@@ -50,5 +50,5 @@ python hand_detection.py
 
 - [MediaPipe](https://google.github.io/mediapipe/) for providing the hand detection model.
 - [OpenCV](https://opencv.org/) for image processing capabilities.
-```
+  
 Made with ♥ by Charanjeet Singh
